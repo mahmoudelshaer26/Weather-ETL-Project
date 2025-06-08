@@ -1,5 +1,7 @@
 # 🌤️ Weather Data Dashboard
 
+Link to Interactive Streamlit Dashboard: https://weather-etl-project-mahmoudelshaer.streamlit.app/
+
 A weather monitoring dashboard built with Streamlit, pulling live data from the OpenWeatherMap API.
 
 ## 📁 Project Structure
