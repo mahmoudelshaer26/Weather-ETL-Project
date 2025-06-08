@@ -1,1 +1,1 @@
-pandas==2.2.2requests==2.32.2python-dateutil==2.9.0.post0matplotlib==3.8.4  # If you visualize the dataopenpyxl==3.1.2     # If you export to Excel
+streamlitaltairpython-dotenvpandas==2.2.2requests==2.32.2python-dateutil==2.9.0.post0matplotlib==3.8.4openpyxl==3.1.2
