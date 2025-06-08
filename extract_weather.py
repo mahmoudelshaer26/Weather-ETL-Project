@@ -9,7 +9,6 @@ load_dotenv()  # This loads environment variables from .env file
 api_key = os.getenv("API_KEY")  # Read the API_KEY variable from environment
 
 
-API_KEY = "98815b52f92e202113b5411eba190c6c"
 CITIES = ["Munich", "Berlin", "Cairo", "Madrid", "Amsterdam"]
 CSV_FILE = "weather_raw.csv"
 
